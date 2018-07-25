@@ -1,0 +1,83 @@
+#IntroCard
+{
+  background-image: url("./../../assets/img/header.jpg");
+  background-size: 100% 100%;
+  font-weight: 700;
+  color: white;
+  padding: 13vw 0;
+  .title-text
+  {
+    padding-bottom: 30px;
+  }
+}
+
+#Icons
+{
+  background-color: #eaeaea;
+  padding: 5vw 0;
+  span
+  {
+    display: block;
+    color: cornflowerblue;
+  }
+}
+
+#MainContent
+{
+  .squares
+  {
+    height: 65vh;
+    .image-one
+    {
+      background-image: url("./../../assets/img/bg-showcase-1.jpg");
+      background-size: 100% 100%;
+    }
+  }
+  .text
+  {
+    padding: 10vw;
+  }
+  #One
+  {
+    background-image: url("./../../assets/img/bg-showcase-1.jpg");
+    background-size: 100% 100%;
+  }
+
+  #Two
+  {
+    background-image: url("./../../assets/img/bg-showcase-2.jpg");
+    background-size: 100% 100%;
+  }
+
+
+  #Three
+  {
+    background-image: url("./../../assets/img/bg-showcase-3.jpg");
+    background-size: 100% 100%;
+  }
+}
+
+#Pictures
+{
+  background-color: #eaeaea;
+  padding: 10vw;
+  img
+  {
+    border-radius: 50%;
+    height: 66%;
+    width: 50%;
+  }
+}
+
+#SignUp
+{
+  background-image: url("./../../assets/img/header.jpg");
+  background-size: 100% 100%;
+  font-weight: 700;
+  color: white;
+  padding: 4vw 0;
+  .title-text
+  {
+    padding-bottom: 30px;
+  }
+}
